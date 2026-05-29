@@ -16,8 +16,8 @@ will default or not, using the German Credit dataset.
 
 ## Limits
 - Dataset is only 1000 rows which limits model accuracy
-- Class imbalance (700 good, 300 bad) affects recall on defaults
-- With more data SMOTE or threshold tuning would improve default detection
+- Class imbalance 700 good, 300 bad affects recall on defaults
+- With more data SMOTE to add more 'bad' data sets or threshold tuning
 
 ## How to run
 1. Clone the repo
